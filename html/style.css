@@ -39,7 +39,7 @@ html { padding:0; margin:0;}
 .header_text .div .left1 h2 { font:bold 40px Arial, Helvetica, sans-serif; color:#fff; padding:52px 0 20px 0; margin:0;}
 .header_text p.ulli { width:330px; font: normal 12px Arial, Helvetica, sans-serif; color:#fff; padding:5px 0 5px 20px; margin:0; background: url(images/simple_ul_li.gif) left no-repeat;}
 .header_text p { font: normal 12px Arial, Helvetica, sans-serif; color:#fff;}
-.header_text p.button { font: normal 12px Arial, Helvetica, sans-serif; color:#fff; margin:0; padding:0;}
+.header_text p.button { font: normal 12px Arial, Helvetica, sans-serif; color:#fff; margin-top:20px; padding:0;}
 /* ================*/
 .slider2 {background: url(images/simple_text_bg2.gif) top center repeat-x; margin:0 auto; padding:0; height:187px;}
 .header_text2 { margin:0 auto; padding:0; width:960px;}
@@ -88,3 +88,18 @@ p.response { text-align:center; color:#F00; font: normal 11px  Georgia, "Times N
 
 p.clr, .clr { clear:both; padding:0; margin:0; background:none;}
 li.bg, .bg { clear:both; border-top:1px solid #ddd; padding:0; margin:10px 0; background:none; line-height:0;}
+
+
+
+
+.heading1 {
+   
+    font-size:19px;
+    padding:10px 0 10px 0;
+    font-weight:bold;
+    line-height:40px;
+}
+ .container960 {
+            width: 960px;
+            margin: 0px auto;
+        }
